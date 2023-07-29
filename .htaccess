@@ -1,0 +1,9 @@
+php_value display_errors 1
+
+php_value session.gc_maxlifetime 300
+ 
+php_value session.gc_probability 1
+ 
+php_value session.gc_divisor 1
+
+
