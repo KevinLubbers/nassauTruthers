@@ -1,0 +1,42 @@
+#mainBody {
+    text-align:center;
+}
+
+#faceDiv{
+    position:relative;
+    display:inline-block;
+    flex-wrap: wrap;
+    justify-content:center;
+}
+
+#displayContainer{
+    display:inline-flex;
+    justify-content: center;
+}
+
+#leftDisplay {
+    padding:10px;
+}
+
+#rightDisplay{
+    padding:10px;
+}
+
+table {
+    display:inline-flex;
+    justify-content: center;
+}
+
+.dot {
+    width:10px;
+    height:10px;
+    background-color: red;
+    position: absolute;
+    border-radius:50%;
+}
+
+.dotTest {
+    width:120px;
+    height:90px;
+    position: absolute;
+}
